@@ -1,4 +1,3 @@
-# Typing-Speed-Master
 <!DOCTYPE html>
 <html lang="id">
 <head>
